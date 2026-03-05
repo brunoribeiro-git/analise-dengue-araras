@@ -1,0 +1,838 @@
+﻿REGIAO,BAIRRO,CASOS,ANO
+Norte,Alto da Colina,14,2019
+Norte,Jardim Alvorada,5,2019
+Norte,Jardim Apolo,1,2019
+Norte,Jardim Europa,1,2019
+Norte,Jardim Itapuã,1,2019
+Norte,Jardim Piratininga,1,2019
+Norte,Jardim Santa Rosa,3,2019
+Norte,Jardim São João,13,2019
+Norte,Jardim São Pedro,1,2019
+Norte,Jardim Tarumã,1,2019
+Norte,Milton Severino,8,2019
+Norte,Parque das Árvores,44,2019
+Norte,Pedras Preciosas,3,2019
+Norte,Samantha II,6,2019
+Norte,Santa Elisa,1,2019
+Oeste,Pq. Santa Cândida,9,2019
+Oeste,Jardim Cândida,17,2019
+Oeste,Jardim Rosana,1,2019
+Oeste,Jardim São Nicolau,1,2019
+Oeste,Jardim Sobradinho,7,2019
+Oeste,Nova Olinda,2,2019
+Sul,Jardim 15 de Agosto,1,2019
+Sul,Jardim Bela Vista,2,2019
+Sul,Jardim Copacabana,1,2019
+Sul,Jardim Dalla Costa,1,2019
+Sul,Jardim Santa Catarina,2,2019
+Sul,Jardim Versalles,1,2019
+Sul,Narciso Gomes,42,2019
+Sul,Parque Industrial,32,2019
+Sul,Vila Dona Rosa,7,2019
+Sul,Jd. Geny Mercateli,4,2019
+Sul,Jd. Marabá,3,2019
+Sul,Jd. Dalla Costa,1,2019
+Sul,Vila São Jorge,3,2019
+Nordeste,Jd. Buzolin,2,2019
+Nordeste,Center Martini,7,2019
+Nordeste,Jardim Campestre,2,2019
+Nordeste,Jardim das Flores,17,2019
+Nordeste,Jardim das Palmeiras,1,2019
+Nordeste,Jardim Fátima,23,2019
+Nordeste,Jardim Itália,2,2019
+Nordeste,Jardim Luiza Maria,4,2019
+Nordeste,Jardim Madalena Canossa,1,2019
+Nordeste,Jardim Nova Suiça,2,2019
+Nordeste,Jardim Santa Marta,1,2019
+Nordeste,Vila Rodini,1,2019
+Sudeste,Jardim Celina,7,2019
+Sudeste,Jardim das Nações,16,2019
+Sudeste,Jardim Dom Bosco,2,2019
+Sudeste,Jardim Paulista,3,2019
+Sudeste,Jardim Portal do Parque,2,2019
+Sudeste,Jardim Ouro Verde,4,2019
+Sudeste,Jardim Tangará,2,2019
+Sudeste,Olivia Park,5,2019
+Sudeste,Terras  de Carolina,3,2019
+Sudeste,Vila Lobos,6,2019
+Sudoeste,Bom Jesus,6,2019
+Sudoeste,Jardim 8 de Abril,2,2019
+Sudoeste,Jardim Abolição,1,2019
+Sudoeste,Jardim Belvedere,9,2019
+Sudoeste,Jardim dos Ypês,2,2019
+Sudoeste,Jardim Nova Araras,1,2019
+Leste I,Jd. Costa Verde,3,2019
+Leste I,Jd. Mirian,2,2019
+Leste I,Jardim Itamaraty,3,2019
+Leste I,José Ometto 1,9,2019
+Leste I,José Ometto 2,26,2019
+Leste I,José Ometto 3,5,2019
+Leste I,José Ometto 4,7,2019
+Leste I,José Ometto 5,6,2019
+Leste I,Warley Colombini,5,2019
+Leste II,Distrito Industrial IV,1,2019
+Leste II,Jardim Morumbi,40,2019
+Leste II,Parque Dom Pedro,29,2019
+Leste II,Parque Tiradentes,52,2019
+Leste II,Portal do Sol,6,2019
+Assentamentos,Assentamento 3,2,2019
+Assentamentos,Assentamento 4,7,2019
+Rural,Bairro Loreto,1,2019
+Rural,Cascata,2,2019
+Rural,Fazenda Morro Alto,1,2019
+Rural,Marimbondo,1,2019
+Rural,Morro Grande,7,2019
+Rural,Sítio Recreio Independente,1,2019
+Rural,Sítio Santa Rita,1,2019
+Rural,Sítio São Sebastião,1,2019
+Norte,Alto da Colina,4,2020
+Norte,Jardim Alvorada,9,2020
+Norte,Jardim Haise Maria,13,2020
+Norte,Jardim Nova Europa,2,2020
+Norte,Jardim Esmeralda,1,2020
+Norte,Jardim Piratininga,14,2020
+Norte,Jardim Santo Antônio,17,2020
+Norte,Jardim Santa Rosa,3,2020
+Norte,Jardim São João,95,2020
+Norte,Jd. N.S. Aparecida,8,2020
+Norte,Jardim São Pedro,6,2020
+Norte,Jardim Itapuã,1,2020
+Norte,Milton Severino,4,2020
+Norte,Jd. Morada so Sol,1,2020
+Norte,Parque das Árvores,22,2020
+Norte,Jardim Apollo,1,2020
+Norte,Pedras Preciosas,1,2020
+Norte,Samantha ,3,2020
+Norte,Jd. Da Colina,2,2020
+Norte,Jd. Alto das Araras,3,2020
+Norte,Jd. Tarumã,3,2020
+Oeste,Pq. Santa Cândida,14,2020
+Oeste,Jardim Cândida,73,2020
+Oeste,Novo Cândida,2,2020
+Oeste,Jd. Maria Lúcia,1,2020
+Oeste,Jardim São Luiz,2,2020
+Oeste,Chácara Zago,1,2020
+Oeste,Jardim São Nicolau,3,2020
+Oeste,Jardim Sobradinho,1,2020
+Oeste,Laranjeiras,0,2020
+Oeste,Nova Olinda,1,2020
+Sul,Jd. Flamboyant,3,2020
+Sul,Jardim Bela Vista,5,2020
+Sul,Jardim Copacabana,0,2020
+Sul,Jardim Dalla Costa,3,2020
+Sul,Jardim Esplanada,1,2020
+Sul,Jardim Santa Catarina,2,2020
+Sul,Jardim Versalles,3,2020
+Sul,Narciso Gomes,15,2020
+Sul,Parque Industrial,17,2020
+Sul,Vila Dona Rosa,3,2020
+Sul,Jd. Geny Mercateli,0,2020
+Sul,Jd. Marabá,1,2020
+Sul,Vila São Jorge,10,2020
+Sul,Bairro Facão,1,2020
+Nordeste,Jd. Buzolin,3,2020
+Nordeste,Center Martini,6,2020
+Nordeste,Jardim Campestre,4,2020
+Nordeste,Jardim das Flores,6,2020
+Nordeste,Jardim das Palmeiras,2,2020
+Nordeste,Jardim Fátima,47,2020
+Nordeste,Jardim Itália,2,2020
+Nordeste,Jardim Luiza Maria,6,2020
+Nordeste,Jardim Madalena Canossa,4,2020
+Nordeste,Jardim Nova Suiça,3,2020
+Nordeste,Jardim Santa Marta,6,2020
+Nordeste,Jardim Santa Efigênia,3,2020
+Nordeste,Jd. Tancredo Neves,6,2020
+Nordeste,Vila Rodini,2,2020
+Nordeste,Vila Candinha,1,2020
+Sudeste,Jardim Celina,4,2020
+Sudeste,Jardim Nova Araras 3,1,2020
+Sudeste,Jardim das Nações,4,2020
+Sudeste,Jardim Dom Bosco,20,2020
+Sudeste,Jardim Paulista,5,2020
+Sudeste,Jardim Santa Olivia,2,2020
+Sudeste,Terras de Santa Olivia,3,2020
+Sudeste,Jardim Ouro Verde,4,2020
+Sudeste,Portal do Parque,3,2020
+Sudeste,Jardim Tangará,6,2020
+Sudeste,Olivia Park,5,2020
+Sudeste,Terras  de Carolina,3,2020
+Sudeste,Vila Lobos,19,2020
+Sudeste,Portal do Lago,1,2020
+Sudeste,Ch. de Recreio Independência,1,2020
+Sudoeste,Jardim Santa Cruz,3,2020
+Sudoeste,Bom Jesus,11,2020
+Sudoeste,Jardim 8 de Abril,1,2020
+Sudoeste,Condomínio Arvoredo,1,2020
+Sudoeste,Jardim Abolição,5,2020
+Sudoeste,Jardim Belvedere,59,2020
+Sudoeste,Jardim dos Ypês,0,2020
+Sudoeste,Jd. Universitário,6,2020
+Sudoeste,Jardim Nova Araras,4,2020
+Leste I,Jd. Costa Verde,2,2020
+Leste I,Jd. Mirian,2,2020
+Leste I,Jardim Itamaraty,5,2020
+Leste I,José Ometto 1,33,2020
+Leste I,José Ometto 2,32,2020
+Leste I,José Ometto 3,13,2020
+Leste I,Jardim José Ometto,3,2020
+Leste I,José Ometto 5,9,2020
+Leste I,Warley Colombini,6,2020
+Leste I,Condomínio Vila Rica,1,2020
+Leste I,Condomínio Monte Verde,2,2020
+Leste II,Distrito Industrial IV,0,2020
+Leste II,Jardim Morumbi,4,2020
+Leste II,Parque Dom Pedro,12,2020
+Leste II,Parque Tiradentes,25,2020
+Leste II,Jd. Das Orquídeas,3,2020
+Leste II,Portal do Sol,4,2020
+Assentamentos,Assentamento 3,0,2020
+Assentamentos,Assentamento 4,0,2020
+Rural,Sítio Araruna,1,2020
+Rural,Usina São João,2,2020
+Rural,Fazenda São vicente,1,2020
+Rural,Marimbondo,10,2020
+Rural,Morro Grande,2,2020
+Rural,Sítio São José,1,2020
+Rural,Sítio Marques,1,2020
+Rural,Sítio Santa Maria,1,2020
+Norte,Alto da Colina,1,2021
+Norte,Jardim Alvorada,3,2021
+Norte,Jardim Haise Maria,1,2021
+Norte,Vila Europa,1,2021
+Norte,Jardim Esmeralda,0,2021
+Norte,Jardim Piratininga,1,2021
+Norte,Jardim Santo Antônio,0,2021
+Norte,Jardim Santa Rosa,1,2021
+Norte,Jardim São João,4,2021
+Norte,Jd. N.S. Aparecida,0,2021
+Norte,Jardim São Pedro,0,2021
+Norte,Jardim Itapuã,0,2021
+Norte,Milton Severino,1,2021
+Norte,Campos Verdes,1,2021
+Norte,Parque das Árvores,1,2021
+Norte,Jardim Apollo,0,2021
+Norte,Pedras Preciosas,2,2021
+Norte,Jd. Tarumâ,0,2021
+Norte,Jd. Da Colina,0,2021
+Norte,Jd. Alto das Araras,0,2021
+Norte,Jd. Vida Nova,1,2021
+Oeste,Pq. Santa Cândida,0,2021
+Oeste,Jardim Cândida,5,2021
+Oeste,Novo Cândida,0,2021
+Oeste,Jd. Maria Lúcia,0,2021
+Oeste,Jardim São Luiz,0,2021
+Oeste,Chácara Zago,0,2021
+Oeste,Jardim São Nicolau,1,2021
+Oeste,Jardim Sobradinho,0,2021
+Oeste,Laranjeiras,0,2021
+Oeste,Jd. Rosana,2,2021
+Oeste,Nova Olinda,2,2021
+Sul,Jd. Flamboyant,0,2021
+Sul,Jardim Bela Vista,0,2021
+Sul,Jardim Copacabana,2,2021
+Sul,Jardim Dalla Costa,0,2021
+Sul,Jardim Esplanada,0,2021
+Sul,Jardim Santa Catarina,0,2021
+Sul,Jardim Versalles,0,2021
+Sul,Narciso Gomes,3,2021
+Sul,Parque Industrial,0,2021
+Sul,Vila Dona Rosa,1,2021
+Sul,Jd. Geny Mercateli,1,2021
+Sul,Jd. Marabá,0,2021
+Sul,Vila São Jorge,0,2021
+Sul,Bairro Facão,0,2021
+Nordeste,Jd. Buzolin,1,2021
+Nordeste,Center Martini,1,2021
+Nordeste,Jardim Campestre,1,2021
+Nordeste,Jardim das Flores,6,2021
+Nordeste,Jardim das Palmeiras,0,2021
+Nordeste,Jardim Fátima,5,2021
+Nordeste,Jardim Itália,0,2021
+Nordeste,Jardim Luiza Maria,2,2021
+Nordeste,Jardim Madalena Canossa,0,2021
+Nordeste,Jardim Nova Suiça,0,2021
+Nordeste,Jardim Santa Marta,0,2021
+Nordeste,Jardim Santa Efigênia,0,2021
+Nordeste,Jd. Tancredo Neves,2,2021
+Nordeste,Vila Rodini,0,2021
+Nordeste,Vila Candinha,1,2021
+Sudeste,Jardim Celina,0,2021
+Sudeste,Jardim Nova Araras 3,0,2021
+Sudeste,Jardim das Nações,1,2021
+Sudeste,Jardim Dom Bosco,0,2021
+Sudeste,Jardim Paulista,0,2021
+Sudeste,Jardim Santa Olivia,0,2021
+Sudeste,Terras de Santa Olivia,0,2021
+Sudeste,Jardim Ouro Verde,1,2021
+Sudeste,Portal do Parque,3,2021
+Sudeste,Jardim Tangará,1,2021
+Sudeste,Olivia Park,1,2021
+Sudeste,Terras  de Carolina,1,2021
+Sudeste,Vila Lobos,1,2021
+Sudeste,Portal do Lago,0,2021
+Sudeste,Ch. de Recreio Independência,0,2021
+Sudoeste,Jardim Santa Cruz,0,2021
+Sudoeste,Bom Jesus,4,2021
+Sudoeste,Jardim 8 de Abril,0,2021
+Sudoeste,Condomínio Arvoredo,0,2021
+Sudoeste,Jardim Abolição,0,2021
+Sudoeste,Jardim Belvedere,3,2021
+Sudoeste,Jardim dos Ypês,2,2021
+Sudoeste,Jd. Universitário,0,2021
+Sudoeste,Jardim Nova Araras,0,2021
+Leste I,Jd. Costa Verde,1,2021
+Leste I,Jd. Mirian,0,2021
+Leste I,Jardim Itamaraty,4,2021
+Leste I,José Ometto 1,16,2021
+Leste I,José Ometto 2,31,2021
+Leste I,José Ometto 3,47,2021
+Leste I,José Ometto 4,2,2021
+Leste I,José Ometto 5,1,2021
+Leste I,Warley Colombini,0,2021
+Leste I,Condomínio Vila Rica,4,2021
+Leste II,Distrito Industrial IV,0,2021
+Leste II,Jardim Morumbi,3,2021
+Leste II,Parque Dom Pedro,11,2021
+Leste II,Parque Tiradentes,10,2021
+Leste II,Jd. Das Orquídeas,1,2021
+Leste II,Portal do Sol,2,2021
+Assentamentos,Assentamentos,7,2021
+Rural,Sítio Araruna,0,2021
+Rural,Usina São João,0,2021
+Rural,Fazenda São vicente,0,2021
+Rural,Marimbondo,0,2021
+Rural,Morro Grande,0,2021
+Rural,Sítio São José,0,2021
+Rural,Usina Santa Lúcia,1,2021
+Rural,Fazenda São Francisco,1,2021
+Rural,Cascata,1,2021
+Norte,Alto da Colina,90,2022
+,Jardim Alvorada,65,2022
+,Alto das Araras,6,2022
+,Jardim Haise Maria,15,2022
+,Jardim Nova Europa,4,2022
+,Vila Europa,4,2022
+,Jd. Santo Antônio,9,2022
+,Jardim Esmeralda,3,2022
+,Jardim Piratininga,40,2022
+,Jardim Santa Rosa,19,2022
+,Jardim São João,67,2022
+,Jd. Apollo,7,2022
+,Vida Nova Araras,1,2022
+,Jardim São Pedro,3,2022
+,Jardim Itapuã,5,2022
+,Milton Severino,21,2022
+,Jd. Do Lago,1,2022
+,Campos Verdes,2,2022
+,Parque das Árvores,102,2022
+,Samantha II,1,2022
+,Samantha III,3,2022
+,Pedras Preciosas,19,2022
+,Terras de Santa Elisa,4,2022
+,Jd. Tarumã,2,2022
+,Jd. Da Colina,3,2022
+Oeste,Pq. Santa Cândida,16,2022
+,Jardim Cândida,62,2022
+,Jardim Novo Cândida,2,2022
+,Jardim São Luiz,2,2022
+,Jd. Filtro,3,2022
+,Jd. Maria Lúcia,1,2022
+,Jardim São Nicolau,9,2022
+,Jardim Sobradinho,9,2022
+,Nova Olinda,94,2022
+,Jd. Cambuí,1,2022
+,Jd. Rosana,10,2022
+,Alto da Represa,1,2022
+,Jardim Eucalipto,1,2022
+Sul,Jd. Flamboyant,11,2022
+,Jardim Bela Vista,17,2022
+,Jardim Copacabana,16,2022
+,Jardim Dalla Costa,9,2022
+,Jardim Santa Catarina,7,2022
+,Jardim Versalles,15,2022
+,Narciso Gomes,138,2022
+,Parque Industrial,54,2022
+,Marabá,1,2022
+,Terra Nobre,2,2022
+,Vila Dona Rosa,25,2022
+,Bosque dos Ypes,1,2022
+,Jd. Geny Mercateli,12,2022
+,Jd. Maria Rosa,2,2022
+,XV de agosto,12,2022
+,Jd. Esplanada,2,2022
+,Facão,3,2022
+,Vila São Jorge,3,2022
+Nordeste,Jd. Buzolin,18,2022
+,Vila Candinha,8,2022
+,Jd. Campinho,4,2022
+,Center Martini,16,2022
+,Jardim Campestre,23,2022
+,Jardim das Flores,23,2022
+,Jardim das Palmeiras,9,2022
+,Jardim Fátima,98,2022
+,Vila Rodini,1,2022
+,Desmembramento Fachini I,1,2022
+,Jardim Itália,7,2022
+,Jardim Luiza Maria,35,2022
+,Jardim Madalena Canossa,10,2022
+,Jardim Nova Suiça,2,2022
+,Jardim Santa Marta,4,2022
+,Jardim Santa Efigênia,2,2022
+,Jd. Florença,3,2022
+,Jd. Tancredo Neves,21,2022
+Sudeste,Jardim Celina,33,2022
+,Jardim Araras 3,2,2022
+,Jardim das Nações,55,2022
+,Jardim Dom Bosco,22,2022
+,Portal do Lago,0,2022
+,Jardim Paulista,10,2022
+Norte,Alto da Colina,0,2023
+,Jardim Alvorada,0,2023
+,Alto das Araras/Esperança,2,2023
+,Jardim Haise Maria,0,2023
+,Jardim Nova Europa,0,2023
+,Vila Europa,0,2023
+,Jd. Santo Antônio,0,2023
+,Jardim Esmeralda,0,2023
+,Jardim Piratininga,0,2023
+,Jardim Santa Rosa,0,2023
+,Jardim São João,1,2023
+,Jd. Apollo,0,2023
+,Vida Nova Araras,2,2023
+,Jardim São Pedro,0,2023
+,Jardim Itapuã,0,2023
+,Milton Severino (Aeroporto),3,2023
+,Jd. Do Lago,0,2023
+,Campos Verdes,0,2023
+,Parque das Árvores,2,2023
+,Samantha II,0,2023
+,Samantha III,0,2023
+,Pedras Preciosas,3,2023
+,Terras de Santa Elisa,0,2023
+,Jd. Tarumã,0,2023
+,Jd. Da Colina,1,2023
+Oeste,Pq. Santa Cândida,0,2023
+,Jardim Cândida,1,2023
+,Jardim Novo Cândida,0,2023
+,Jardim São Luiz,0,2023
+,Jd. Filtro,0,2023
+,Jd. Maria Lúcia,0,2023
+,Jardim São Nicolau,0,2023
+,Jardim Sobradinho,0,2023
+,Nova Olinda,1,2023
+,Jd. Cambuí,0,2023
+,Jd. Rosana,0,2023
+,Shangrilá,1,2023
+,Jardim Eucalipto,0,2023
+Sul,Jd. Flamboyant,0,2023
+,Jardim Bela Vista,0,2023
+,Jardim Copacabana,0,2023
+,Jardim Dalla Costa,0,2023
+,Jardim Santa Catarina,0,2023
+,Jardim Versalles,1,2023
+,Narciso Gomes,3,2023
+,Parque Industrial,5,2023
+,Marabá,0,2023
+,Terra Nobre,0,2023
+,Vila Dona Rosa,0,2023
+,Bosque dos Ypes,0,2023
+,Jd. Geny Mercateli,0,2023
+,Jd. Maria Rosa,0,2023
+,XV de agosto,0,2023
+,Jd. Esplanada,0,2023
+,Jd. Planalto,2,2023
+,Vila São Jorge,1,2023
+Nordeste,Jd. Buzolin,0,2023
+,Vila Candinha,0,2023
+,Jd. Campinho,0,2023
+,Center Martini,0,2023
+,Jardim Campestre,2,2023
+,Jardim das Flores,0,2023
+,Jardim das Palmeiras,0,2023
+,Jardim Fátima,1,2023
+,Vila Rodini,0,2023
+,Desmembramento Fachini I,0,2023
+,Jardim Itália,0,2023
+,Jardim Luiza Maria,1,2023
+,Jardim Madalena Canossa,0,2023
+,Jardim Nova Suiça,0,2023
+,Jardim Santa Marta,0,2023
+,Jardim Santa Efigênia,0,2023
+,Jd. Florença,0,2023
+,Jd. Tancredo Neves,0,2023
+Sudeste,Jardim Celina,1,2023
+,Jd. das Araras,1,2023
+,Jardim Araras 3,0,2023
+,Jardim das Nações,4,2023
+,Jardim Dom Bosco,0,2023
+,Portal do Lago,0,2023
+,Jardim Paulista,0,2023
+Norte,Alto da Colina,27,2024
+,Jardim Alvorada,32,2024
+,Alto das Araras,25,2024
+,Jardim Haise Maria,14,2024
+,Jardim Nova Europa,4,2024
+,Vila Europa,2,2024
+,Chac. Esperança (ao lado Vida Nova),1,2024
+,São Conrado,2,2024
+,Jardim Piratininga,28,2024
+,Jardim Santa Rosa,14,2024
+,Jardim São João,51,2024
+,Nossa Senhora Aparecida,5,2024
+,Jd. Apollo,9,2024
+,Vida Nova Araras,8,2024
+,Jardim São Pedro,10,2024
+,Jardim Itapuã,1,2024
+,Milton Severino (Aeroporto),24,2024
+,Samantha I,7,2024
+,Campos Verdes,4,2024
+,Parque das Árvores,98,2024
+,Samantha II,12,2024
+,Samantha III,2,2024
+,Pedras Preciosas,8,2024
+,Terras de Santa Elisa,12,2024
+,Jd. Tarumã,8,2024
+,Jd.Boa Esperança,5,2024
+,Jd. Da Colina,6,2024
+Oeste,Pq. Santa Cândida,39,2024
+,Jardim Cândida,84,2024
+,Jardim Novo Cândida,4,2024
+,Residencial Lagoa,4,2024
+,Distrito Industrial III,3,2024
+,Jd. Filtro,3,2024
+,Jd. Maria Lúcia,2,2024
+,Jardim São Nicolau,2,2024
+,Jardim Sobradinho,6,2024
+,Nova Olinda,2,2024
+,Jd. Cambuí,5,2024
+,Jd. Rosana,14,2024
+,Jd.Nova Rosana,1,2024
+,Jardim Eucalipto,6,2024
+Sul,Jd. Flamboyant,12,2024
+,Jardim Bela Vista,12,2024
+,Jardim Copacabana,15,2024
+,Jardim Dalla Costa,15,2024
+,Jardim Santa Catarina,7,2024
+,Jardim Versalles,30,2024
+,Narciso Gomes,86,2024
+,Parque Industrial,64,2024
+,Marabá,19,2024
+,Terra Nobre,2,2024
+,Vila Dona Rosa,18,2024
+,Bosque dos Ypes,2,2024
+,Jd. Geny Mercateli,11,2024
+,Jd. Maria Rosa,2,2024
+,XV de agosto,0,2024
+,Jd. Esplanada,2,2024
+,Jd. Planalto,4,2024
+,Vila São Jorge,9,2024
+Nordeste,Jd. Buzolin,9,2024
+,Vila Candinha,12,2024
+,Jd. Campinho,0,2024
+,Center Martini,5,2024
+,Jardim Campestre,11,2024
+,Jardim das Flores,12,2024
+,Jardim das Palmeiras,5,2024
+,Jardim Fátima,30,2024
+,Vila Rodini,3,2024
+,Desmembramento Fachini I,0,2024
+,Jardim Itália,5,2024
+,Jardim Luiza Maria,21,2024
+,Jardim Madalena Canossa,4,2024
+,Jardim Nova Suiça,2,2024
+,Jardim Santa Marta,3,2024
+,Jardim Santa Efigênia,6,2024
+,Jd. Florença,1,2024
+,Jd. Tancredo Neves,5,2024
+Sudeste,Jardim Celina,20,2024
+,Jd. das Araras,0,2024
+,Jardim Araras 3,0,2024
+,Jardim das Nações,33,2024
+,Jardim Dom Bosco,1,2024
+,Portal do Lago,3,2024
+,Jardim Paulista,1,2024
+Leste I,Araras I,2,2025
+Leste I,Jardim Itamaraty,27,2025
+Leste I,Jardim José Ometto,7,2025
+Leste I,Jd. Campo Belo,2,2025
+Leste I,Jd. Costa Verde,26,2025
+Leste I,Jd. Mirian,36,2025
+Leste I,Jd.Monte Verde,0,2025
+Leste I,José Ometto 1,82,2025
+Leste I,José Ometto 2,170,2025
+Leste I,José Ometto 3,50,2025
+Leste I,José Ometto 4,10,2025
+Leste I,José Ometto 5,41,2025
+Leste I,Warley Colombini,24,2025
+Leste II,Distrito Industrial IV,0,2025
+Leste II,Jardim Morumbi,90,2025
+Leste II,Jd. Das Orquídeas (Della Coletta),25,2025
+Leste II,Parque Dom Pedro,94,2025
+Leste II,Parque Tiradentes,116,2025
+Leste II,Portal do Sol,27,2025
+Nordeste,Center Martini,31,2025
+Nordeste,Desmembramento Fachini I,2,2025
+Nordeste,Jardim Campestre,58,2025
+Nordeste,Jardim das Flores,33,2025
+Nordeste,Jardim das Palmeiras,41,2025
+Nordeste,Jardim Fátima,66,2025
+Nordeste,Jardim Itália,20,2025
+Nordeste,Jardim Luiza Maria,66,2025
+Nordeste,Jardim Madalena Canossa,6,2025
+Nordeste,Jardim Nova Suiça,9,2025
+Nordeste,Jardim Santa Efigênia,15,2025
+Nordeste,Jardim Santa Marta,5,2025
+Nordeste,Jd. Buzolin,53,2025
+Nordeste,Jd. Campinho,9,2025
+Nordeste,Jd. Florença,7,2025
+Nordeste,Jd. Tancredo Neves,6,2025
+Nordeste,Vila Candinha,18,2025
+Nordeste,Vila Rodini,4,2025
+Norte,Alto da Colina,83,2025
+Norte,Alto das Araras,12,2025
+Norte,Campos Verdes,2,2025
+Norte,Jardim Alvorada,121,2025
+Norte,Jardim Esmeralda,5,2025
+Norte,Jardim Haise Maria,25,2025
+Norte,Jardim Itapuã,9,2025
+Norte,Jardim Nova Europa,7,2025
+Norte,Jardim Piratininga,79,2025
+Norte,Jardim Santa Rosa,56,2025
+Norte,Jardim São João,48,2025
+Norte,Jardim São Pedro,8,2025
+Norte,Jd. Apollo,11,2025
+Norte,Jd. da Colina,5,2025
+Norte,Jd. Tarumã,5,2025
+Norte,Jd.Boa Esperança,4,2025
+Norte,Milton Severino (Aeroporto),56,2025
+Norte,Nossa Senhora Aparecida,17,2025
+Norte,Parque das Árvores,171,2025
+Norte,Pedras Preciosas,37,2025
+Norte,Samantha I,2,2025
+Norte,Samantha II,2,2025
+Norte,Samantha III,4,2025
+Norte,São Conrado,3,2025
+Norte,Terras de Santa Teresa,1,2025
+Norte,Terras de Santa Elisa,12,2025
+Norte,Vida Nova Araras,17,2025
+Norte,Vila Europa,17,2025
+Norte,Vila Santo Antonio,14,2025
+Oeste,Distrito Industrial III,0,2025
+Oeste,Chácara Araruna,2,2025
+Oeste,Jardim Cândida,180,2025
+Oeste,Jardim Eucalipto,12,2025
+Oeste,Jardim Novo Cândida,11,2025
+Oeste,Jardim São Nicolau,15,2025
+Oeste,Jardim Sobradinho,32,2025
+Oeste,Jd. Cambuí,4,2025
+Oeste,Jd. Filtro,2,2025
+Oeste,Jd. Maria Lúcia,2,2025
+Oeste,Jd. Rosana,23,2025
+Oeste,Chacara zago,1,2025
+Oeste,Vista Alegre,3,2025
+Oeste,Laranjeiras,1,2025
+Oeste,Nova Olinda,23,2025
+Oeste,Pq. Santa Cândida,40,2025
+Oeste,Residencial Lagoa,3,2025
+Rural,Caio Prado,20,2025
+Rural,Cascata,1,2025
+Rural,Chácara Franzini,0,2025
+Rural,Chácara São Francisco,1,2025
+Rural,Condominio Santa Inês,0,2025
+Rural,Elihiu Root/Grevilhas,3,2025
+Rural,Fazenda Colorado,3,2025
+Rural,Santa Mônica,4,2025
+Rural,Marimbondo,4,2025
+Rural,Outros,20,2025
+Rural,Residencial Santa Monica,1,2025
+Rural,Usina Santa Lucia,4,2025
+Rural,Usina São João,3,2025
+Sudeste,Ch. Recreio Independência,33,2025
+Sudeste,Francisco Buzolin,9,2025
+Sudeste,Jardim Araras 3,3,2025
+Sudeste,Jardim Celina,56,2025
+Sudeste,Jardim das Nações,66,2025
+Sudeste,Jardim Dom Bosco,11,2025
+Sudeste,Jardim Ouro Verde,31,2025
+Sudeste,Jardim Paulista,6,2025
+Sudeste,Jardim Santa Olivia,44,2025
+Sudeste,Jardim Tangará,18,2025
+Sudeste,Jd. das Araras,0,2025
+Sudeste,Olivia Park,8,2025
+Sudeste,Portal do Lago,2,2025
+Sudeste,Portal do Parque,24,2025
+Sudeste,Terras  de Carolina,29,2025
+Sudeste,Terras de Santa Olivia,15,2025
+Sudeste,Vila Lobos,14,2025
+Sudoeste,Bom Jesus,25,2025
+Sudoeste,Jardim 8 de Abril,15,2025
+Sudoeste,Jardim Abolição,41,2025
+Sudoeste,Jardim Belvedere,139,2025
+Sudoeste,Jardim Santa Cruz,5,2025
+Sudoeste,Jardim Ypes,25,2025
+Sudoeste,Jd. Universitário,33,2025
+Sudoeste,Jd.São Luiz,30,2025
+Sudoeste,Nova Araras,12,2025
+Sudoeste,Santo André ,4,2025
+Sul,Bosque de Versalles,34,2025
+Sul,Bosque dos Ypes,3,2025
+Sul,Jardim Bela Vista,39,2025
+Sul,Jardim Copacabana,8,2025
+Sul,Jardim Dalla Costa,31,2025
+Sul,Jardim Santa Catarina,5,2025
+Sul,Jd. Esplanada,9,2025
+Sul,Jd. Flamboyant,9,2025
+Sul,Jd. Geny Mercateli,5,2025
+Sul,Jd. Maria Rosa,3,2025
+Sul,Jd. Planalto,4,2025
+Sul,Marabá,13,2025
+Sul,Narciso Gomes,197,2025
+Sul,Parque Industrial,126,2025
+Sul,Terra Nobre,4,2025
+Sul,Vila Dona Rosa,33,2025
+Sul,Vila São Jorge,9,2025
+Sul,XV de agosto,2,2025
+Outros,Não localizado,2,2025
+Leste I,Araras I,0,2026
+Leste I,Jardim Itamaraty,0,2026
+Leste I,Jardim José Ometto,0,2026
+Leste I,Jd. Campo Belo,0,2026
+Leste I,Jd. Costa Verde,0,2026
+Leste I,Jd. Mirian,0,2026
+Leste I,Jd.Monte Verde,0,2026
+Leste I,José Ometto 1,0,2026
+Leste I,José Ometto 2,0,2026
+Leste I,José Ometto 3,0,2026
+Leste I,José Ometto 4,0,2026
+Leste I,José Ometto 5,0,2026
+Leste I,Warley Colombini,0,2026
+Leste II,Distrito Industrial IV,0,2026
+Leste II,Jardim Morumbi,0,2026
+Leste II,Jd. Das Orquídeas (Della Coletta),0,2026
+Leste II,Parque Dom Pedro,0,2026
+Leste II,Parque Tiradentes,0,2026
+Leste II,Portal do Sol,0,2026
+Nordeste,Center Martini,0,2026
+Nordeste,Desmembramento Fachini I,0,2026
+Nordeste,Jardim Campestre,1,2026
+Nordeste,Jardim das Flores,0,2026
+Nordeste,Jardim das Palmeiras,1,2026
+Nordeste,Jardim Fátima,0,2026
+Nordeste,Jardim Itália,0,2026
+Nordeste,Jardim Luiza Maria,0,2026
+Nordeste,Jardim Madalena Canossa,0,2026
+Nordeste,Jardim Nova Suiça,0,2026
+Nordeste,Jardim Santa Efigênia,0,2026
+Nordeste,Jardim Santa Marta,0,2026
+Nordeste,Jd. Buzolin,1,2026
+Nordeste,Jd. Campinho,0,2026
+Nordeste,Jd. Florença,0,2026
+Nordeste,Jd. Tancredo Neves,0,2026
+Nordeste,Vila Candinha,0,2026
+Nordeste,Vila Rodini,0,2026
+Norte,Alto da Colina,0,2026
+Norte,Alto das Araras,0,2026
+Norte,Campos Verdes,0,2026
+Norte,Jardim Alvorada,0,2026
+Norte,Jardim Esmeralda,0,2026
+Norte,Jardim Haise Maria,0,2026
+Norte,Jardim Itapuã,0,2026
+Norte,Jardim Nova Europa,0,2026
+Norte,Jardim Piratininga,0,2026
+Norte,Jardim Santa Rosa,1,2026
+Norte,Jardim São João,0,2026
+Norte,Jardim São Pedro,0,2026
+Norte,Jd. Apollo,0,2026
+Norte,Jd. da Colina,0,2026
+Norte,Jd. Tarumã,0,2026
+Norte,Jd.Boa Esperança,0,2026
+Norte,Milton Severino (Aeroporto),0,2026
+Norte,Nossa Senhora Aparecida,0,2026
+Norte,Parque das Árvores,1,2026
+Norte,Pedras Preciosas,0,2026
+Norte,Samantha I,0,2026
+Norte,Samantha II,0,2026
+Norte,Samantha III,0,2026
+Norte,São Conrado,0,2026
+Norte,Terras de Santa Teresa,0,2026
+Norte,Terras de Santa Elisa,0,2026
+Norte,Vida Nova Araras,0,2026
+Norte,Vila Europa,0,2026
+Norte,Vila Santo Antonio,0,2026
+Oeste,Distrito Industrial III,0,2026
+Oeste,Chácara Araruna,0,2026
+Oeste,Jardim Cândida,0,2026
+Oeste,Jardim Eucalipto,0,2026
+Oeste,Jardim Novo Cândida,0,2026
+Oeste,Jardim São Nicolau,0,2026
+Oeste,Jardim Sobradinho,0,2026
+Oeste,Jd. Cambuí,0,2026
+Oeste,Jd. Filtro,0,2026
+Oeste,Jd. Maria Lúcia,0,2026
+Oeste,Jd. Rosana,0,2026
+Oeste,Chacara zago,0,2026
+Oeste,Vista Alegre,0,2026
+Oeste,Laranjeiras,0,2026
+Oeste,Nova Olinda,0,2026
+Oeste,Pq. Santa Cândida,0,2026
+Oeste,Residencial Lagoa,0,2026
+Rural,Caio Prado,0,2026
+Rural,Cascata,0,2026
+Rural,Chácara Franzini,0,2026
+Rural,Chácara São Francisco,0,2026
+Rural,Condominio Santa Inês,0,2026
+Rural,Elihiu Root/Grevilhas,0,2026
+Rural,Fazenda Colorado,0,2026
+Rural,Santa Mônica,0,2026
+Rural,Marimbondo,0,2026
+Rural,Outros,0,2026
+Rural,Residencial Santa Monica,0,2026
+Rural,Usina Santa Lucia,0,2026
+Rural,Usina São João,0,2026
+Sudeste,Ch. Recreio Independência,0,2026
+Sudeste,Francisco Buzolin,0,2026
+Sudeste,Jardim Araras 3,0,2026
+Sudeste,Jardim Celina,0,2026
+Sudeste,Jardim das Nações,0,2026
+Sudeste,Jardim Dom Bosco,0,2026
+Sudeste,Jardim Ouro Verde,1,2026
+Sudeste,Jardim Paulista,0,2026
+Sudeste,Jardim Santa Olivia,0,2026
+Sudeste,Jardim Tangará,0,2026
+Sudeste,Jd. das Araras,0,2026
+Sudeste,Olivia Park,0,2026
+Sudeste,Portal do Lago,0,2026
+Sudeste,Portal do Parque,0,2026
+Sudeste,Terras  de Carolina,0,2026
+Sudeste,Terras de Santa Olivia,0,2026
+Sudeste,Vila Lobos,0,2026
+Sudoeste,Bom Jesus,0,2026
+Sudoeste,Jardim 8 de Abril,0,2026
+Sudoeste,Jardim Abolição,1,2026
+Sudoeste,Jardim Belvedere,1,2026
+Sudoeste,Jardim Santa Cruz,0,2026
+Sudoeste,Jardim Ypes,0,2026
+Sudoeste,Jd. Universitário,0,2026
+Sudoeste,Jd.São Luiz,0,2026
+Sudoeste,Nova Araras,0,2026
+Sudoeste,Santo André ,0,2026
+Sul,Bosque de Versalles,0,2026
+Sul,Bosque dos Ypes,0,2026
+Sul,Jardim Bela Vista,0,2026
+Sul,Jardim Copacabana,0,2026
+Sul,Jardim Dalla Costa,0,2026
+Sul,Jardim Santa Catarina,0,2026
+Sul,Jd. Esplanada,0,2026
+Sul,Jd. Flamboyant,0,2026
+Sul,Jd. Geny Mercateli,0,2026
+Sul,Jd. Maria Rosa,0,2026
+Sul,Jd. Planalto,0,2026
+Sul,Marabá,0,2026
+Sul,Narciso Gomes,0,2026
+Sul,Parque Industrial,1,2026
+Sul,Terra Nobre,0,2026
+Sul,Vila Dona Rosa,0,2026
+Sul,Vila São Jorge,0,2026
+Sul,XV de agosto,1,2026
+Outros,Não localizado,0,2026
